@@ -25,7 +25,7 @@ void node::display()
 	cout << song << " by " << artist << endl;
 }
 
-
+//s
 class linkedList
 {
 	node *head;
